@@ -355,7 +355,7 @@ In cold path data pipeline, the essential goal is to get the demand forecast of 
 	your own server and database names, and then click **"OK"**. For server
 	name, make sure you specify the port 1433
 	(**YourSolutionName.database.windows.net, 1433**). Ignore the warning
-	messages that appear on the screen.
+	messages that appears on the screen.
 
 	-   In the next pop out window, you'll see two options on the left pane
 	(**Windows** and **Database**). Click **"Database"**, fill in your
